@@ -1,5 +1,6 @@
 # ScanPC
-Spring Boot Shell App for getting: Bios Serial Number, Local IP and Mac Address from a PC and save the data into an Excel File
+Spring Boot Shell App for getting: Bios Serial Number, Local IP and Mac Address from a PC and save the data into an Excel File,
+This App was build using JDK 1.8
 
 1.- Compile the Spring Boot app; in the folder: scanPC run: .\mvnw.cmd package 
 2.- Cut or copy the jar file: scanPC-0.0.1.jar  of the target folder and paste it in the root folder
